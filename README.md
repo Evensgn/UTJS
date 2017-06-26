@@ -1,7 +1,7 @@
 # UTJS
 > Universal Train Journey System / Unbelievable Tricking Joy System ;-)
 
-A railway ticket management system, group project for Data Structure 2017, ACM Honors Class, SJTU.
+A railway ticket management system, group project for Data Structure 2017 (CS147), ACM Honors Class, SJTU.
 
 ## 1. 引言
 >**And God said, Let there be light: and there was light.**
