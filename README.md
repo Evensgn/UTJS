@@ -2,7 +2,8 @@
 
 > Universal Train Journey System / Unbelievable Tricking Joy System ;-)
 
-Group Members: Zhou Fan (@Evensgn), Xiaoyuan Liu (@camelop), Yikai Li, Xiaoyu Shi
+### Group Members: 
+**Zhou Fan (@Evensgn), Xiaoyuan Liu (@camelop), Yikai Li and Xiaoyu Shi**
 
 A railway ticket management system, group project for Data Structure 2017 (CS147), ACM Honors Class, SJTU.
 
