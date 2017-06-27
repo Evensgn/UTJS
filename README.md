@@ -538,7 +538,7 @@ private:
 
 ---
 
-##4. 开发流程
+## 4. 开发流程
     
 > **A man who dares to waste one hour of time has not discovered the value of life.**
 volume I, chapter VI: "The Voyage", page 266; letter to sister Susan Elizabeth Darwin (4 August 1836)
@@ -551,19 +551,3 @@ volume I, chapter VI: "The Voyage", page 266; letter to sister Susan Elizabeth D
 | 刘啸远 | 组员 | 数据结构，前后端分离，后端部分（界面、从文本导入、日志） |
 | 李怿恺 | 组员 | 前端编码（按钮链接、页面跳转、发送数据），输入检查 |
 |施晓钰 |组员 | 界面设计（格局规划，UI创建），美工，代码管理|
-
-
-### 4.2 开发经过
-```gantt
-    title 项目开发流程
-    section 前期学习
-        目标分析       :done,a1, 2017-4-7, 7d
-        模块划分     :done,after a1, 7d
-        学习相关知识       : done,7d
-    section 编码
-        确认编码规范 :done, a2, 2017-4-7  , 7d
-        各自编写相应模块 :done, a3, after a2, until 2017-5-5
-        编码交流 :4d
-        代码组合 :after a3, 7d
-        编写文档 :2017-5-9, 4d
-```
